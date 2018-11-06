@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fttaeschn%2Fthebrig.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fttaeschn%2Fthebrig?ref=badge_shield)
+
 thebrig is a set of PHP pages used to create and manage FreeBSD jails on Nas4Free. 
 
 The main advantage of thebrig is that it leverages the existing webgui control 
@@ -17,3 +19,6 @@ the current path. Upon the extension's first run, this data would be read by the
 subsequently stored in the Nas4Free XML config. 
 
 Copyright 2013.
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fttaeschn%2Fthebrig.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fttaeschn%2Fthebrig?ref=badge_large)
